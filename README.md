@@ -1,4 +1,7 @@
- <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Riaz Hossen | Apparel Quality Assurance</title>
   <meta name="description" content="Portfolio website of an Apparel Quality Assurance professional showcasing experience, skills, and projects." />
   <style>
